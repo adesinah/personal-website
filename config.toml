@@ -75,7 +75,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
-    UtterancesRepo = "d-sense/personal-website" # https://utteranc.es/
+    UtterancesRepo = "adesinah/personal-website" # https://utteranc.es/
     UtterancesIssueTerm = "pathname" # pathname, url, title, og:title
     UtterancesTheme = "github-light" # github-light or github-dark
 
@@ -85,7 +85,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 ## Social Accounts for Novela Theme
 [params.social]
     medium = "https://medium.com/@adeshinaHH"
-    github = "https://github.com/d-sense"
+    github = "https://github.com/adesinah"
     linkedin = "https://linkedin.com/in/adesina-hammed-h-7bb52372"
     twitter = "https://twitter.com/adeshinaHH"
 
